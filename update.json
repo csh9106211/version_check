@@ -1,8 +1,8 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.0.4",
-    "minVersionCode":  1,
-    "url":  "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-    "notes":  "익명 인증·닉네임 보호 · 서버 속보 · UI 개선",
-    "changedAt":  "2026-11-05"
+  "versionCode": 8,
+  "versionName": "1.0.6",
+  "minVersionCode": 1,
+  "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
+  "notes": "성장 길잡이·2검 해금 안내·황실 납품 확인·모바일 UI 개선",
+  "changedAt": "2026-11-05"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.7",
+  "versionCode": 10,
+  "versionName": "1.0.8",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "화면 글자·버튼 크기 개선 · 프레임 여백 정리 · 전당 랭킹/일일 임무 가독성",
-  "changedAt": "2026-11-05"
+  "notes": "성장·전당·더보기 허브 개편 · 확률표 한 화면 · 연타/자동강화 렉 제거 · 파괴 3D 연출",
+  "changedAt": "2026-11-09"
 }

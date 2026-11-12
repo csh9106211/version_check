@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.8",
+  "versionCode": 16,
+  "versionName": "1.0.14",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "성장·전당·더보기 허브 개편 · 확률표 한 화면 · 연타/자동강화 렉 제거 · 파괴 3D 연출",
-  "changedAt": "2026-11-09"
+  "notes": "모바일 전 화면 UI 개편 및 자동강화 무료 5분·광고 15분 바로 실행",
+  "changedAt": "2026-11-12"
 }

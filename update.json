@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.15",
+  "versionCode": 18,
+  "versionName": "1.0.16",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "전 화면 UI 통합(랭킹 연단·하단 탭·던전 목록) 및 자동강화 무료 5분·광고 15분",
-  "changedAt": "2026-11-12"
+  "notes": "초반 진행 완화 및 파괴 티켓 일일 상한으로 경제 균형 개선",
+  "changedAt": "2026-11-15"
 }

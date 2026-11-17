@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.18",
+  "versionCode": 21,
+  "versionName": "1.0.19",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "대장간 시네마틱 영상·BGM 추가, 배경음악/효과음 분리",
+  "notes": "신규 앱 아이콘, 로그인 대성당 리디자인, 움직이는 WebP 연출 및 게스트 로그인 안정화",
   "changedAt": "2026-11-17"
 }

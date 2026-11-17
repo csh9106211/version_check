@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.17",
+  "versionCode": 20,
+  "versionName": "1.0.18",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "게임 밸런스·경제 정상화, 검 강화 타격/마법진 연출 업그레이드, UI/UX 개선",
+  "notes": "대장간 시네마틱 영상·BGM 추가, 배경음악/효과음 분리",
   "changedAt": "2026-11-17"
 }

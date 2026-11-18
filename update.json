@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.0.20",
+  "versionCode": 23,
+  "versionName": "1.0.21",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "전 화면 UI 프레임 정돈, 던전 전투 연출·체력바 개편, 초월 확률·밸런스 적용 및 한글 입력 개선",
+  "notes": "피버·냉각 타이머 및 보관 검 해금·랭킹 진입 수정, 한글 입력·전투 UI 개선",
   "changedAt": "2026-11-18"
 }

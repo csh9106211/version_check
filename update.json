@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "1.0.24",
+  "versionCode": 27,
+  "versionName": "1.0.25",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "전면 광고 2분 통합 주기 및 던전·수동 전환 개선, +0~+7 안전 구간 표시 개편",
-  "changedAt": "2026-11-19"
+  "notes": "보상형·2분 전면 광고 로드 안정화 및 내부 테스트 광고 폴백 적용",
+  "changedAt": "2026-11-20"
 }

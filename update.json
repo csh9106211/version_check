@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.21",
+  "versionCode": 24,
+  "versionName": "1.0.22",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "피버·냉각 타이머 및 보관 검 해금·랭킹 진입 수정, 한글 입력·전투 UI 개선",
-  "changedAt": "2026-11-18"
+  "notes": "12개국어 글로벌 지원, 상점·랭킹·연성 개편, 3트랙 BGM 및 전투·결제 안정화",
+  "changedAt": "2026-11-19"
 }

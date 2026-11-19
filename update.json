@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.23",
+  "versionCode": 26,
+  "versionName": "1.0.24",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "검 직접 터치·꾹 눌러 단조, 연타 버퍼링, 콤보·히트스톱 손맛 강화 및 전투 버튼 확대",
+  "notes": "전면 광고 2분 통합 주기 및 던전·수동 전환 개선, +0~+7 안전 구간 표시 개편",
   "changedAt": "2026-11-19"
 }

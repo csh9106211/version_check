@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "1.0.30",
+  "versionCode": 33,
+  "versionName": "1.0.31",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "Android 상단 이중 여백 제거로 타이틀 위치 최적화",
+  "notes": "광고 간격 완화(2→5→10분·2배속 중 면제), BGM 음량 조절 및 자동강화 판매 개선",
   "changedAt": "2026-11-20"
 }

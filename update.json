@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "1.0.29",
+  "versionCode": 32,
+  "versionName": "1.0.30",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "Android 15 상단 중복 타이틀바 제거 및 검 뒤 네모 레이어 완전 삭제",
+  "notes": "Android 상단 이중 여백 제거로 타이틀 위치 최적화",
   "changedAt": "2026-11-20"
 }

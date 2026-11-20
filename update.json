@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.25",
+  "versionCode": 29,
+  "versionName": "1.0.27",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "보상형·2분 전면 광고 로드 안정화 및 내부 테스트 광고 폴백 적용",
+  "notes": "강화 무대 검 뒤 검은 프레임 현상 완전 제거 및 결과 배지 표시 개선",
   "changedAt": "2026-11-20"
 }

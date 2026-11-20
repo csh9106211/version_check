@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.31",
+  "versionCode": 34,
+  "versionName": "1.0.32",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "광고 간격 완화(2→5→10분·2배속 중 면제), BGM 음량 조절 및 자동강화 판매 개선",
+  "notes": "Android 한글 키보드 조합 입력 오류(두 번 입력 현상) 근본 수정",
   "changedAt": "2026-11-20"
 }

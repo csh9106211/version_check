@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.27",
+  "versionCode": 31,
+  "versionName": "1.0.29",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "강화 무대 검 뒤 검은 프레임 현상 완전 제거 및 결과 배지 표시 개선",
+  "notes": "Android 15 상단 중복 타이틀바 제거 및 검 뒤 네모 레이어 완전 삭제",
   "changedAt": "2026-11-20"
 }

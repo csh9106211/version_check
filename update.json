@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.35",
+  "versionCode": 38,
+  "versionName": "1.0.36",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "2.5배속·전면광고 1일 1회·+16 복구·티켓 밸런스·자동강화 UI 개선",
+  "notes": "운명의 화로(3릴 슬롯·더블업), 3D RPG 스킬 아이콘 전면 교체, 자동강화 중 동시 플레이",
   "changedAt": "2026-11-21"
 }

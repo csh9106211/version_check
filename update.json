@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.36",
+  "versionCode": 39,
+  "versionName": "1.0.37",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "운명의 화로(3릴 슬롯·더블업), 3D RPG 스킬 아이콘 전면 교체, 자동강화 중 동시 플레이",
+  "notes": "+16 파괴 위기 시 보유 방어권·무료 방지 티켓(3장) 즉시 복구 지원",
   "changedAt": "2026-11-21"
 }

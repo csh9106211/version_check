@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "1.0.37",
+  "versionCode": 40,
+  "versionName": "1.0.38",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "+16 파괴 위기 시 보유 방어권·무료 방지 티켓(3장) 즉시 복구 지원",
+  "notes": "자동강화 중지 시 파괴·결과 배지 잔류 및 재발화 버그 완전 수정",
   "changedAt": "2026-11-21"
 }

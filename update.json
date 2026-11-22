@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "1.0.40",
+  "versionCode": 43,
+  "versionName": "1.0.41",
   "minVersionCode": 1,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "신규 [심연 무한 탑 1~∞층]·랭킹 국기 배지 추가 및 광고 전환 속도 최적화",
-  "changedAt": "2026-11-21"
+  "notes": "12개 언어 UI 번역 누락 0건 · 결제·강화 안내 현지화",
+  "changedAt": "2026-11-22"
 }

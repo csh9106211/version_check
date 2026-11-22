@@ -1,8 +1,23 @@
 {
-  "versionCode": 44,
-  "versionName": "1.0.42",
-  "minVersionCode": 1,
+  "versionCode": 46,
+  "versionName": "1.0.43",
+  "minVersionCode": 46,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "12개 언어 UI 번역 완비 · 플레이 평가 안내 및 편의성 개선",
-  "changedAt": "2026-11-22"
+  "notes": "무기 진화 8~10단계·심연 개편·편지함 보상·랭킹 리뉴얼",
+  "notesI18n": {
+    "ko": "무기 진화 8~10단계·심연 개편·편지함 보상·랭킹 리뉴얼",
+    "en": "8–10x weapon evolutions, Abyss rebalance, Mailbox rewards & Ranking overhaul",
+    "ja": "武器8〜10段階進化・深淵改編・受信箱報酬・ランキング刷新",
+    "zh-TW": "武器8~10階進化・深淵重製・信箱獎勵・殿堂排行全面翻新",
+    "zh-CN": "武器8~10阶进化・深渊重制・信箱奖励・殿堂排行全面翻新",
+    "th": "อาวุธวิวัฒนาการ 8-10 ขั้น · ปรับสมดุลเหวลึก · รางวัลจดหมาย · อันดับใหม่",
+    "vi": "Tiến hóa vũ khí bậc 8–10, cân bằng Vực Thẳm, quà Hộp thư & Xếp hạng mới",
+    "id": "Evolusi senjata tahap 8–10, keseimbangan Abyss, hadiah Surat & Peringkat baru",
+    "es": "Evoluciones de arma nv. 8–10, rebalanceo Abismo, Correo y Ranking renovado",
+    "pt-BR": "Evoluções de arma nv. 8–10, rebalanceamento Abismo, Correio e Ranking novo",
+    "de": "Waffen-Evolution Stufe 8–10, Abgrund-Rebalance, Postfach & neue Rangliste",
+    "fr": "Évolutions d'armes 8–10, équilibrage Abîme, Courrier et Classement refondu"
+  },
+  "changedAt": "2026-11-22",
+  "checkedAt": "2026-11-22"
 }

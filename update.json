@@ -1,23 +1,23 @@
 {
-  "versionCode": 48,
-  "versionName": "1.0.45",
+  "versionCode": 49,
+  "versionName": "1.0.46",
   "minVersionCode": 46,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "6종 무기 8~11단계 진화 일러스트 전면 리마스터",
+  "notes": "공용 축복·파괴방지권 통합 · 무한모드 균열 복구 UI 추가",
   "notesI18n": {
-    "ko": "6종 무기 8~11단계 진화 일러스트 전면 리마스터",
-    "en": "Full remaster of all 6 weapons' 8–11 stage evolution art",
-    "ja": "全6種武器8〜11段階の進化イラスト全面リマスター",
-    "zh-TW": "6種武器8~11階進化美術全面重製升級",
-    "zh-CN": "6种武器8~11阶进化美术全面重制升级",
-    "th": "รีมาสเตอร์ภาพวิวัฒนาการอาวุธ 8–11 ขั้นครบทั้ง 6 ชนิด",
-    "vi": "Làm mới toàn diện đồ họa tiến hóa 8–11 bậc của cả 6 vũ khí",
-    "id": "Remaster penuh ilustrasi evolusi tahap 8–11 untuk 6 senjata",
-    "es": "Remasterización completa del arte de evolución (nv. 8–11) de 6 armas",
-    "pt-BR": "Remasterização completa da arte de evolução (nv. 8–11) das 6 armas",
-    "de": "Komplettes Remaster der 8–11-stufigen Waffen-Evolutionen aller 6 Waffen",
-    "fr": "Remaster complet des illustrations d'évolution (nv. 8–11) des 6 armes"
+    "ko": "공용 축복·파괴방지권 통합 · 무한모드 균열 복구 UI 추가",
+    "en": "Unified Universal Bless/Ward items & added Endless Rift rescue UI",
+    "ja": "共用祝福・破壊防止券に統合・無限モード亀裂復旧UIを追加",
+    "zh-TW": "整合共用祝福與防碎券・新增無限模式裂隙復原設定介面",
+    "zh-CN": "整合共用祝福与防碎券・新增无限模式裂隙复原设置界面",
+    "th": "รวมตั๋วพรและกันแตกใช้ร่วมทุกอาวุธ · เพิ่ม UI กู้คืนโหมดไร้ขีดจำกัด",
+    "vi": "Hợp nhất Chúc Phúc/Chống Vỡ dùng chung & thêm UI khôi phục Vô Tận",
+    "id": "Menyatukan Berkah/Pelindung universal & UI pemulihan mode Tanpa Batas",
+    "es": "Bendición y Escudo universales unificados y nueva UI de rescate Infinito",
+    "pt-BR": "Bênção e Escudo universais unificados e nova UI de resgate Infinito",
+    "de": "Universeller Segen/Bruchschutz vereint & Endlos-Riss-Rettungs-UI ergänzt",
+    "fr": "Bénédiction et Bouclier universels unifiés + interface de secours Infini"
   },
-  "changedAt": "2026-11-22",
-  "checkedAt": "2026-11-22"
+  "changedAt": "2026-11-23",
+  "checkedAt": "2026-11-23"
 }

@@ -1,23 +1,23 @@
 {
-  "versionCode": 51,
-  "versionName": "1.0.48",
+  "versionCode": 52,
+  "versionName": "1.0.49",
   "minVersionCode": 46,
   "url": "https://play.google.com/store/apps/details?id=com.eternalforge.game",
-  "notes": "운명의 화로 고정 베팅(1만~1억G)·균열 티켓 배수·자동 돌리기",
+  "notes": "전당 보상·4~6검 강화비 밸런스 및 백그라운드 자동강화 개선",
   "notesI18n": {
-    "ko": "운명의 화로 고정 베팅(1만~1억G)·균열 티켓 배수·자동 돌리기",
-    "en": "Fortune Furnace fixed bets (10K–100M G), scaled Rift Tickets & Auto Spin",
-    "ja": "運命の炉に固定ベット(1万〜1億G)・亀裂チケット倍率・自動回転を追加",
-    "zh-TW": "命運火爐新增固定下注(1萬~1億G)、裂隙券倍率及自動旋轉",
-    "zh-CN": "命运火炉新增固定下注(1万~1亿G)、裂隙券倍率及自动旋转",
-    "th": "เตาไฟแห่งโชคชะตา: เดิมพันคงที่ (1หมื่น–100ล้านG)·ตั๋วรอยแยก·หมุนอัตโนมัติ",
-    "vi": "Lò Vận Mệnh: cược cố định (10N–100Tr G), Vé Khe Nứt theo bậc & Tự Quay",
-    "id": "Tungku Keberuntungan: taruhan tetap (10rb–100jt G), Tiket Celah & Putar Otomatis",
-    "es": "Brasero de la Suerte: apuestas fijas (10K–100M G), boletos Grieta y Giro auto",
-    "pt-BR": "Braseiro da Sorte: apostas fixas (10K–100M G), Bilhetes Fenda e Giro Auto",
-    "de": "Schicksalsofen: Feste Einsätze (10 Tsd.–100 Mio. G), Riss-Tickets & Auto-Dreh",
-    "fr": "Brasero chanceux : mises fixes (10K–100M G), tickets Faille et Tour auto"
+    "ko": "전당 보상·4~6검 강화비 밸런스 및 백그라운드 자동강화 개선",
+    "en": "Rebalanced Hall payouts & Sword 4–6 costs · Improved background auto-forge",
+    "ja": "殿堂報酬・4〜6剣の強化コストを調整・バックグラウンド自動強化を改善",
+    "zh-TW": "調整殿堂獎勵與4~6劍強化費用・優化背景自動強化流程",
+    "zh-CN": "调整殿堂奖励与4~6剑强化费用・优化后台自动强化流程",
+    "th": "ปรับสมดุลรางวัลหอเกียรติยศและค่าตีบวกดาบ 4–6 · ปรับปรุงออโต้พื้นหลัง",
+    "vi": "Cân bằng thưởng Điện & chi phí kiếm 4–6 · Cải thiện tự động rèn nền",
+    "id": "Penyeimbangan hadiah Aula & biaya Pedang 4–6 · Peningkatan tempa otomatis",
+    "es": "Rebalanceo de recompensas del Salón y espadas 4–6 · Mejora en forja en segundo plano",
+    "pt-BR": "Rebalanceamento do Salão e custos das espadas 4–6 · Melhoria na forja em segundo plano",
+    "de": "Hallen-Belohnungen & Schwert-4–6-Kosten angepasst · Hintergrund-Auto-Schmiede verbessert",
+    "fr": "Rééquilibrage du Panthéon et des épées 4–6 · Forge auto en arrière-plan améliorée"
   },
-  "changedAt": "2026-11-23",
-  "checkedAt": "2026-11-23"
+  "changedAt": "2026-11-24",
+  "checkedAt": "2026-11-24"
 }
